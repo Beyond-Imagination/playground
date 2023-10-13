@@ -17,5 +17,7 @@
 # anywhere in the repository, but not further nested files
 # docs/* "Project Collaborator"
 
+* "Beyond_Imagination"
+
 # This file itself is owned by members who are assigned the Project Admin role in this project.
 CODEOWNERS "Project Admin"
