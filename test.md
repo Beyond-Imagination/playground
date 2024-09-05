@@ -7,3 +7,5 @@ Good Morning
 
 hi
 bye
+
+notion 연동 테스트
