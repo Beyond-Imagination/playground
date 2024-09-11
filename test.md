@@ -9,3 +9,4 @@ hi
 bye
 
 notion 연동 테스트
+notion 연동 테스트2
